@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abdoahmed" target="blank"><img src="https://img.shields.io/twitter/follow/abdoahmed?logo=twitter&style=for-the-badge" alt="abdoahmed" /></a> </p>
 
-- 🔭 I’m currently working on **Web developing and competitive programming**
+- 🔭 I’m currently working on **Web developer and competitive programmer**
 
 - 👯 I’m looking to collaborate on **chameleon**
 
