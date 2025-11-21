@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdo Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Alexandria</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
