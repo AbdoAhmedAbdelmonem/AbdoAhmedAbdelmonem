@@ -1,18 +1,120 @@
-<h1 align="center">Hi 👋, I'm Abdo Ahmed</h1>
-<h3 align="center">A Machine Learning Engineer and Frontend Developer</h3>
+<h1 align="center"> Hi there, I'm <a href="https://linkedin.com/abdoahmed/">Abdo Ahmed</a> <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+![Mastan _page-0001](https://repository-images.githubusercontent.com/468905916/90ca25d9-022e-4a73-97df-fcf49082363a)
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-# 📊 GitHub Stats:
+<img align="right" hspace="30"
+     src="https://github.com/SankshipthShetty/SankshipthShetty/assets/99337968/2bd05422-3a3b-4d7c-94a1-7cdb584c09d7"
+     alt="Profile Image"
+     width="320"/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbdoAhmed&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+- 🌱 **Currently studying at Faculty of Computer and Data Science, Alexandria University** <br>
+- ⚡ About Me: **Machine Learning Engineer & Data Science Enthusiast with some Creativity in Web Development** <br>
+- 💎 Value: **Robust Statistical Models, Clean Architecture, and Continuous Improvement** <br>
+- 📈 Skills: **Python, Supabase, Power BI, Java, Vercel, Multivariate Statistics**
+- 🎯 Fun Fact: Always double-check your covariance matrices (watch out for that sign reversal in the first matrix during MANOVA!).
+- 📫 Reach Me At: [Gmail](mailto:tokyo9900777@gmail.com) <br>
+- 📍 **Location:** Alexandria, Egypt <br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-[![](https://visitcount.itsvg.in/api?id=AbdoAhmed&icon=8&color=11)](https://visitcount.itsvg.in)
+<br>
+<br>
+<br>
 
+## Competitions & Initiatives 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <img src="https://img.shields.io/badge/Huawei_Developer_Competition-2025_Finals-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
+  <img src="https://img.shields.io/badge/Techne_Summit-Alexandria_2024-00BFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/IEEE_AlexSB-AleXtreme_Contest-00529B?style=for-the-badge&logo=ieee&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT_Field_Training-Summer_2025-000000?style=for-the-badge&logo=internetofthings&logoColor=white" />
+</div>
+<br>
+
+#### **Bad News:**  
+> In data science, no matter how clean your dataset seems, you will eventually find outliers.
+
+####  **Good News:**  
+> When your models fail, each iteration opens you up to new features, often helping you engineer the best version of your system.
+
+
+
+<br>
+
+<summary>🚀 Hackathons & Training:</summary>
+  <br>
+  <table width="100%" align="center">
+    <tr>
+    </tr>
+    <tr>
+      <td>Competitive Programming Fall Training</td>
+      <td>
+        <ul>
+          <li>Role: <strong>Level 2 Trainee</strong></li>
+          <li>Hosted at Creativa Hub Alexandria.</li>
+          <li>Focused on advanced algorithms, data structures, and optimization.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Digilians National Digital Initiative</td>
+      <td>
+        <ul>
+          <li>Role: <strong>Participant</strong></li>
+          <li>Engaged in the national initiative to enhance tech employability and modern digital skills.</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+
+<summary>🏆 Notable Projects:</summary>
+  <br>
+  <table width="100%">
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><strong>MorX</strong></td>
+      <td>An intelligent team management and task allocation platform fully powered by AI. It streamlines workflow automation, intelligently assigns tasks, and optimizes team productivity through data-driven operational insights.</td>
+    </tr>
+    <tr>
+      <td><strong>Chameleon (chameleonFCDS)</strong></td>
+      <td>A centralized educational platform built and deployed to scale, serving over 4,000 students from the Faculty of Computer and Data Science at Alexandria University. Powered by a robust Supabase backend handling coursework, assignments, and structural updates seamlessly.</td>
+    </tr>
+    <tr>
+      <td><strong>Online Retail Data Analysis</strong></td>
+      <td>A comprehensive data science project leveraging Python. Involved advanced feature engineering, applying Hotelling's T² assumptions, and utilizing predictive algorithms to extract actionable insights from transactional retail data.</td>
+    </tr>
+  </table>
+
+<br>
+
+<table width="100%" align="center">
+<tr>
+<td>
+  <img width="600em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AbdoAhmedAbdelmonem&theme=radical" alt="Profile Summary">
+</td>
+</tr>
+</table>
+
+<table width="100%" align="center">
+<tr>
+<td>
+    <img width="400em" src="https://awesome-github-stats.azurewebsites.net/user-stats/AbdoAhmedAbdelmonem?cardType=level&theme=radical" alt="GitHub Stats"/>
+</td>
+<td>
+<!-- Replace this placeholder with your actual GitHub stats image if you have one, or use a dynamic card -->
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoAhmedAbdelmonem&layout=compact&theme=radical&hide_border=true"/>
+
+</td>
+</tr>
+</table>
+<br>
+
+<p align="center">
+  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+</p>
+
+<p align="center">
+  <img height="80" src="https://github.com/MastanSayyad/MastanSayyad/blob/main/png-gif-3.gif"/>
+</p>
