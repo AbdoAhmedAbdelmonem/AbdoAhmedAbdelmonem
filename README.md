@@ -112,7 +112,7 @@
 <br>
 
 <p align="center">
-  <b>Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee. 😊</b>
+  <b>Thank you for visiting my profile! 😊</b>
 </p>
 
 <p align="center">
